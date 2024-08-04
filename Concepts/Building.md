@@ -4,7 +4,7 @@ layout: home
 parent: Concepts
 ---
 
-Almost always when operating infrastructure for various applications (validators, nodes, keepers, other bots, etc.) you are running opensource code. This is both a good and a bad thing. It is likely that when you first start operating the code you have not done a complete walkthrough and do not fully understand all the inctricies of the code (especially if you are a small team).
+Almost always when operating infrastructure for various applications (validators, nodes, keepers, other bots, etc.) you are running opensource code. This is both a good and a bad thing. It is likely that when you first start operating the code you have not done a complete walkthrough and do not fully understand all the intricacies of the code (especially if you are a small team).
 
 However there are there are some things you can do to make sure you are running the code you expect in a secure, reproducible and compatible way.
 
